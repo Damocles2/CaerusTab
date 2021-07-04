@@ -11,7 +11,7 @@ It  is also important to mention its programmability. As it is open source and y
 
 (extremely simple to program bcuz arduino but feel free to pm me at https://www.reddit.com/user/veryinterestingnut if you need it done. will obviously be free)
 
-You can assure yourself that this is among the most perfected macro keyboard when set up (meaning that it ticks all the boxes required or possibly desired), however it does take some basic skill to program.
+You can assure yourself that this is among the best macro keyboards when set up properly (as in it ticks all the boxes required or possibly desired), however it does take some basic programming skills to program.
 
 ![img1](https://i.ibb.co/SczXns8/picture-pcb.png)
 ![img2](https://i.ibb.co/ZfSh6vP/stylized-pcb-view.jpg)
